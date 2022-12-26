@@ -31,22 +31,30 @@
     아이가 좋아하는 콘텐츠 뿐만 아니라 부모가 보여주고 싶은 콘텐츠까지
     
     **아이들에게 더 나은 콘텐츠를 추천할 수 있는 AI 모델을 제안할 수 있는 기회입니다!**
-    
 
----
+# Data
 
-[아이디어](https://www.notion.so/06949462875e4c6884045a090bb4d78c)
+- Produced by LG U-PLUS AI Ground (https://stages.ai/competitions/208/overview/description)
+- 7 csv files
 
----
+# Role
 
-[모델 성능](https://www.notion.so/a1280472fc0a4f6aaf18e2f4d3a78452)
+- Our whole team member contributed to the ideas of feature engineering
 
----
+- Narin Kim
+    - Handling Whole Deep-Learning Process (new_expXX.ipynb, nr_XXX.ipynb etc)
+    - Suggest Embedding idea
+    - Master of Neural Network
 
-[Anything](https://www.notion.so/78333b384ccb41b5a50dd17a26b87031)
+- Dawoon Kim
+    - Feature Engineering (dw_XX.ipynb, Clustering_kmodes.ipynb, don_XX.ipynb etc)
+    - Master of coding python
 
-[To-Do list](https://www.notion.so/df1ea93cdc8d4efd9f223be1b6ede568)
+- Donghyun Son (Leader)
+    - Feature Engineering (thon_XXX.ipynb, Feature_XXX.ipynb, EASE.ipynb etc)
+    - Supported fixing new_XX.ipynb
+    - Recorded everything in our notion site
 
----
-
-[마무리 소감](https://www.notion.so/6d9e7e1c943d4d349c8b4c4afa67d542)
+# Further Description
+- Follow link below:
+(https://thon-profile.notion.site/Project-2022-AI-Ground-e0f4e69edee546be877a712ddb508199)
